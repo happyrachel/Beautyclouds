@@ -1,0 +1,145 @@
+.main{	
+	width: 960px;
+	margin: 0 auto;
+	margin-top: 71px;
+	box-shadow: 1px -1px 16px 3px #dad0c6;
+	padding-top: 43px;
+	background-color: #ffffff;
+}
+.main-left{
+	width: 500px;
+	padding-left: 55px;
+	border-right: 1px solid #e5e5e5;
+	float: left;
+}
+h1{
+	color: #768263;
+	font-size: 24px;
+	margin-bottom: 23px;
+}
+.main-left ul{
+	padding-left: 20px;
+}
+.main-left ul li{
+	margin-bottom: 18px;
+	line-height: 32px;
+}
+.main-left ul li label{
+	color: #333333;
+	font-size: 14px;
+	width: 64px;
+	line-height: 32px;
+	margin-right: 16px;
+	float: left;
+	text-align: right;
+}
+.main-left ul li input{
+	width: 256px;
+	line-height: 23px;
+	text-align:left;
+	float: left;
+	font-size: 13px;
+}
+.main-left ul li i{
+	font-style:normal;
+	float: left;
+	font-size: 14px;
+}
+.main-left ul li:nth-child(3) input{
+	width: 10px;
+	margin-top: 10px;
+}
+.main-left #list p{
+	float: left;
+	margin-left: 8px;
+}
+.main-left #list .red{
+	color:red;
+}
+.main-left #list .green{
+	color:green;
+}
+.active{
+	color:red;
+}
+.active2{
+	color:green;
+	font-size: 16px;
+}
+.main-left p{
+	color: #333333;
+	font-size: 12px;
+}
+.main-left p span:nth-child(1){
+	font-size: 14px;
+}
+.main-left p span:nth-child(2){
+	color: #87b32e;
+}
+.main-left .pic{
+	width: 312px;
+	border: 1px solid #999999;
+	padding:2px;
+	margin-top: 6px;
+	margin-bottom: 20px;
+	margin-left: 75px;
+}
+.main-left .pic img{
+	float: left;
+	margin-right: 3px;
+	cursor: pointer;
+}
+.main-left .pic img:nth-child(4){
+	margin-right: 0;
+}
+.main-left .xieyi{
+	margin-left: 75px;
+	color: #a9a8a8;
+	font-size: 12px;
+	margin-bottom: 21px;
+}
+.main-left a{
+	display: block;
+	margin-left: 75px;
+	margin-bottom: 32px;
+	text-decoration: none;
+	width: 131px;
+	line-height: 35px;
+	text-align: center;
+	color: #ffffff;
+	font-weight: bolder;
+	background-color: #ff5783;
+	border-radius: 3px;
+}
+.main-right{
+	width: 259px;
+	float: right;
+	padding-left: 32px;
+	padding-top: 20px;
+}
+.main-right p{
+	color: #999999;
+	font-size: 16px;
+}
+.main-right a{
+	display: block;
+	margin-top: 16px;
+	margin-bottom: 69px;
+	text-decoration: none;
+	width: 81px;
+	line-height: 28px;
+	text-align: center;
+	color: #ffffff;
+	font-weight: bolder;
+	background-color: #87bd34;
+	border-radius: 5px;
+}
+.main-right li{
+	margin-top: 17px;
+	line-height: 20px;
+	font-size: 12px;
+	cursor: pointer;
+}
+.main-right li img{
+	width: 20px;
+}
